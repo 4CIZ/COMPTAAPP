@@ -450,7 +450,7 @@ s = st.session_state
 # ─────────────────────────────────────────────
 st.markdown("""
 <div class="hero">
-    <p class="hero-label">Règlement ANC n° 2014-03</p>
+    <p class="hero-label">Règlement ANC n° 2026</p>
     <h1 class="hero-title">Quiz Plan Comptable</h1>
     <p class="hero-sub">Testez votre maîtrise des comptes du PCG</p>
 </div>
